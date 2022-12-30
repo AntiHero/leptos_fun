@@ -1,0 +1,11 @@
+d:\Rust\leptos\counter\target\debug\deps\proc_macro2-a1c463c84ffbcc21.rmeta: C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\lib.rs C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\marker.rs C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\parse.rs C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\rcvec.rs C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\detection.rs C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\fallback.rs C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\wrapper.rs
+
+d:\Rust\leptos\counter\target\debug\deps\proc_macro2-a1c463c84ffbcc21.d: C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\lib.rs C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\marker.rs C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\parse.rs C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\rcvec.rs C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\detection.rs C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\fallback.rs C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\wrapper.rs
+
+C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\lib.rs:
+C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\marker.rs:
+C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\parse.rs:
+C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\rcvec.rs:
+C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\detection.rs:
+C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\fallback.rs:
+C:\Users\Bladerunner\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.49\src\wrapper.rs:
