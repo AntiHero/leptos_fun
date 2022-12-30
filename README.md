@@ -1,3 +1,3 @@
 ### Build
 
-__$cargo build__
+__$trunk build__
